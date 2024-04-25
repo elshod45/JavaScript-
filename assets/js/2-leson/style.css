@@ -1,0 +1,16 @@
+.div {
+    color: aqua;
+    text-decoration: line-through;
+}
+.fester {
+    color: white;
+}
+body {
+    background-color: blue;
+    text-align: center;
+}
+.diviki {
+    color: yellow;
+    text-decoration: overline;
+    font-style: italic;
+}

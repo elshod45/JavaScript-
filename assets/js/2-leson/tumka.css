@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+.kik {
+    background-color: green;
+    padding: 20px;
+    color: white;
+    line-height: 1.6;
+}
+.chik {
+    color: black;
+    text-align: left;
+    font-size: 35px;
+    background-color: dimgrey;
+}
+.git {
+    color: black;
+    text-align: left;
+    font-size: 25px;
+    line-height: 1.6;
+    background-color: dimgrey;
+    
+}
+.hub {
+    text-align: left;
+    color: black;
+    line-height: 1.6;
+    background-color: dimgrey;
+}
+.fig {
+    text-align: left;
+    color: black;
+    line-height: 1.6;
+    background-color: dimgrey;
+}
+.ma {
+    text-decoration: underline;
+    background-color: dimgrey;
+}
+.ander {
+    color: black;
+    text-align: left;
+    line-height: 1.6;
+    background-color: dimgrey;
+    padding: 50px;
+}
+.line {
+    line-height: 1.6;
+    border-radius: 7px;
+    background-color: yellow;
+    
+    
+}
+.lines {
+    line-height: 1.6;
+    text-align: left;
+
+}
+.heig {
+    color: green;
+    background-color: black;
+    padding: 20px;
+}
