@@ -28,7 +28,7 @@ let output = +val1 + +val2
 
 console.log(output);
 
-document.querySelector("#output").textContent = "приветчик"
+document.querySelector("#output").textContent = output
 
 console.log("приветчик");
 
